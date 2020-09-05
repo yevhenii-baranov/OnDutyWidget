@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">OnDutyWidget</string>
+    <string name="appwidget_text">Никто</string>
+    <string name="add_widget">Add widget</string>
+    <string name="SHAP">Шап</string>
+    <string name="MARK">Марк</string>
+    <string name="ICHI">Ичи</string>
 </resources>
